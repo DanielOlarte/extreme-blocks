@@ -1,0 +1,4 @@
+
+#include <windows.h>
+
+allegro_icon ICON "Extreme_Blocks.ico"
